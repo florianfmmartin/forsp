@@ -1,0 +1,1 @@
+: horsp.ha |> hare build -o %o %f |> horsp
